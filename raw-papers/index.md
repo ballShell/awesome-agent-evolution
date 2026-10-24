@@ -207,7 +207,7 @@ timestamp_source: "arXiv submission history"
 | 11 | Agent Societies Intellectual Elites | 2604.02674 | [2604.02674.md](2604.02674.md) | Multi-agent |
 | 12 | Self-Organizing MAS for Software Dev | 2603.25928 | [2603.25928.md](2603.25928.md) | Multi-agent |
 
-### P. Trending/Hot Papers (10 papers — 2026-05-22 supplement)
+### P. Trending/Hot Papers (13 papers — 2026-05-22 supplement)
 | # | Title | arXiv | File | Category |
 |---|-------|-------|------|----------|
 | 1 | GEPA: Reflective Prompt Evolution Can Outperform RL | 2507.19457 | [2507.19457.md](2507.19457.md) | Prompt Evolution |
